@@ -2,3 +2,5 @@ torch
 transformers 
 Pillow 
 pillow-heif
+onnxruntime
+insightface
